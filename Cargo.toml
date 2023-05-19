@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "heapoob",
+    "test-wasm"
+]

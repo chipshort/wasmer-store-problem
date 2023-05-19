@@ -1,0 +1,2 @@
+[alias]
+wasm = "build -p test-wasm --release --lib --target wasm32-unknown-unknown"
