@@ -8,4 +8,4 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.71"
 bytes = "1.4.0"
-wasmer = { version = "3.2.1", features = ["singlepass"] }
+wasmer = { version = "3.3.0", features = ["singlepass"] }
