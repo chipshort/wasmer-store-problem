@@ -1,4 +1,4 @@
-use wasmer::{Engine, Module, Store};
+use wasmer::{Engine, Module, NativeEngineExt, Store};
 
 fn main() {
     const CONTRACT: &[u8] = include_bytes!("../../test_wasm.wasm");
